@@ -12,7 +12,7 @@ class ServicesUtils {
 List<ServicesUtils> servicesUtils = [
   ServicesUtils(
     name: 'Flutter',
-    icon: 'assets/icons/flutter.svg',
+    icon: 'assets/icons/apple.svg',
   
   
   
