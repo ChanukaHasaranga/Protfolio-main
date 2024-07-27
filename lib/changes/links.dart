@@ -1,6 +1,6 @@
 // CV
 const String resume =
-    'https://drive.google.com/file/d/1FlrOOciMryZ4BS0WnhfL3SfJl1vMAPFH/view?usp=sharing';
+    'https://drive.google.com/file/d/1yi8Y8tJYIOLjc2AXhU_Jp_3FE9CtRqI9/view?usp=sharing';
 
 // Github Link
 const String gitHub = 'https://github.com/ChanukaHasaranga';
@@ -26,7 +26,6 @@ const String profileImage =
     "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80";
 //
 // Github Link
-const String fiverr = 'https://www.fiverr.com/jmch_bandara?up_rollout=true';
 // Github Link
 // Github Link
 const String gmail = 'chanukahasaranga@gmail.com';

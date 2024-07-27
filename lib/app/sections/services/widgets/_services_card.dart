@@ -40,7 +40,7 @@ class _ServiceCardState extends State<_ServiceCard> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            SvgPicture.network(
+            SvgPicture.asset(
               widget.service.icon,
               height: 60,
             ),

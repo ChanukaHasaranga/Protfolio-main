@@ -12,9 +12,6 @@ List<ContactUtils> contactUtils = [
       url: gitHub,
       icon: "https://img.icons8.com/ios-glyphs/60/000000/github.png"),
   ContactUtils(
-      url: fiverr,
-      icon: "https://img.icons8.com/ios-filled/50/000000/fiverr.png"),
-  ContactUtils(
       url: facebook,
       icon: "https://img.icons8.com/ios-filled/50/000000/facebook-new.png"),
   

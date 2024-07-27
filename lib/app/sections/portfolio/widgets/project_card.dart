@@ -51,10 +51,10 @@ class ProjectCardState extends State<ProjectCard> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.asset(
-                    widget.project.icons,
-                    height: height * 0.05,
-                  ),
+                 
+                 
+                 
+                 
                   SizedBox(height: height * 0.02),
                   Text(
                     widget.project.titles,
